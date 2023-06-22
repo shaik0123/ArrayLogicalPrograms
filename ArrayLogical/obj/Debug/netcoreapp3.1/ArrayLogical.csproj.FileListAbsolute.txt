@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\bin\Debug\netcoreapp3.1\ArrayLogical.exe
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\bin\Debug\netcoreapp3.1\ArrayLogical.deps.json
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\bin\Debug\netcoreapp3.1\ArrayLogical.runtimeconfig.json
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\bin\Debug\netcoreapp3.1\ArrayLogical.runtimeconfig.dev.json
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\bin\Debug\netcoreapp3.1\ArrayLogical.dll
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\bin\Debug\netcoreapp3.1\ArrayLogical.pdb
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.AssemblyInfo.cs
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.dll
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.pdb
+C:\Users\91951\source\repos\ArrayLogical\ArrayLogical\obj\Debug\netcoreapp3.1\ArrayLogical.genruntimeconfig.cache
